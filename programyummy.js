@@ -7,6 +7,7 @@
 function disp() {
 document.getElementById("target").innerHTML = "Hi, DevOps 2nd.";
 }
+console.log(innnerHTML)
 //-->
 </script>
 </html>
